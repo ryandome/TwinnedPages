@@ -12,3 +12,9 @@ a:visited{ color:purple;}
 
 
 a:hover { color: orange; }
+table,tr,td,th
+{
+   text-align: center;
+   border: 4px solid black;
+   border-collapse: collapse;
+}
