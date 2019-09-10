@@ -20,6 +20,15 @@ background-repeat: no-repeat;
 background-position: 50% 50%;
 background-color: #333333;
 }
+a:link
+{
+color:blue;    
+}
+a:visited
+{
+color:purple;    
+}
 a:hover
-{color: lime;
+{
+color: lime;
 }
