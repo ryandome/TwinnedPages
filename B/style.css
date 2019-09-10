@@ -2,33 +2,34 @@ body
 {
     color:snow; 
 }
-h1 {
+h1 
+{
     color:snow;
-    
+    background-color:#333333;
 }
 
-table,th,td,tr{ 
-
+table,th,td,tr
+{ 
    background-color:#333333; 
 }
 html
 {
-height:100%;
-background-image: url("../imgs/Yin_and_Yang.svg"); 
-background-size: cover; 
-background-repeat: no-repeat;
-background-position: 50% 50%;
-background-color: #333333;
+    height:100%;
+    background-image: url("../imgs/Yin_and_Yang.svg"); 
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-color: #333333;
 }
 a:link
 {
-color:blue;    
+    color:blue;    
 }
 a:visited
 {
-color:purple;    
+    color:purple;    
 }
 a:hover
 {
-color: lime;
+    color: lime;
 }
