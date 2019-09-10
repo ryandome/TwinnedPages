@@ -1,4 +1,8 @@
 body
 {
-    color:blue;
+    color:blue; 
+    background-image: url("../imgs/Yin_and_Yang.svg"); 
+    background-size: cover; 
+    background-repeat: no repeat;
+    background-position: center;
 }
