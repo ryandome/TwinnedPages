@@ -20,3 +20,6 @@ background-repeat: no-repeat;
 background-position: 50% 50%;
 background-color: #333333;
 }
+a:hover
+{color: lime;
+}
