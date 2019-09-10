@@ -6,4 +6,9 @@ html{ background-image:url("../imgs/Yin_and_Yang.svg"); background-color: AliceB
     background-position: 50% 50%; background-size: contain; height: 100%; 
 }
 
+a:link{ color:blue; }
+
+a:visited{ color:purple;}
+
+
 a:hover { color: black; }
