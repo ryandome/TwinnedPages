@@ -1,5 +1,5 @@
 body
 {
     color:black; background-image:url("../imgs/Yin_and_Yang.svg"); background-color: AliceBlue; background-repeat: no-repeat; 
-    background-position: center; 
+    background-position: center bottom; background-size: 100%;
 }
