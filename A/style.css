@@ -3,5 +3,5 @@ body
     color:black; 
 }
 html{ background-image:url("../imgs/Yin_and_Yang.svg"); background-color: AliceBlue; background-repeat: no-repeat; 
-    background-position: 50% 50%; background-size: contain;
+    background-position: 50% 50%; background-size: contain; height: 100%; 
 }
