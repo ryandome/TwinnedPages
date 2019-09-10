@@ -1,9 +1,18 @@
 body
 {
-    color:blue; 
+    color:white; 
     background-image: url("../imgs/Yin_and_Yang.svg"); 
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
     background-color: #333333;
+}
+h1 {
+    background-color:#333333;
+    
+}
+
+table,th,td,tr{ 
+
+   background-color:#333333; 
 }
